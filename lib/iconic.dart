@@ -2,10 +2,10 @@ library flaticon;
 
 import 'package:flutter/widgets.dart';
 
-class FlatIcons {
-  FlatIcons._();
+class Iconic {
+  Iconic._();
 
-  static const _kFontFam = 'FlatIcons';
+  static const _kFontFam = 'iconic';
   static const String? _kFontPkg = null;
 
   static const IconData align_justify_solid =
