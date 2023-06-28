@@ -1,13 +1,7 @@
 name: iconic
-description: "Iconic: Empower Your Flutter Projects with Stunning Icon Fonts"
-
-Iconic is a powerful package designed exclusively for Flutter, providing you with a vast collection of stunning icon fonts. Elevate your app's visual appeal and effortlessly integrate sleek, modern, and expressive icons into any project, big or small.
-
-With Iconic, your icons will shine on every platform. From mobile to web and desktop, they maintain their allure, ensuring a seamless and captivating user experience. Simply import the package, browse our extensive library, and effortlessly incorporate the perfect icons to communicate your app's message.
-
-Transform navigation menus, buttons, headers, and more with Iconic's pixel-perfect icons. Delight your users with visually striking and intuitive interfaces that leave a lasting impression. Unleash your creativity and make your Flutter app an iconic masterpiece with Iconic.
+description: "Iconic: Empower Your Flutter Projects with Stunning Icon Fonts. Iconic is a powerful package designed exclusively for Flutter, providing you with a vast collection of stunning icon fonts. Elevate your app's visual appeal and effortlessly integrate sleek, modern, and expressive icons into any project, big or small. With Iconic, your icons will shine on every platform. From mobile to web and desktop, they maintain their allure, ensuring a seamless and captivating user experience. Simply import the package, browse our extensive library, and effortlessly incorporate the perfect icons to communicate your app's message. Transform navigation menus, buttons, headers, and more with Iconic's pixel-perfect icons. Delight your users with visually striking and intuitive interfaces that leave a lasting impression. Unleash your creativity and make your Flutter app an iconic masterpiece with Iconic."
 version: 0.0.1
-homepage: https://github.com/moha-b/Flaticon
+homepage: https://github.com/moha-b/Iconic
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
