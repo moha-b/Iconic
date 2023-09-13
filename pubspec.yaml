@@ -1,6 +1,6 @@
 name: iconic
-description: "Iconic: Empower your Flutter projects with stunning icon fonts. Elevate your app's visual appeal and effortlessly integrate sleek, modern, and expressive icons into any project. With a vast collection of pixel-perfect icons, Iconic ensures a seamless user experience across platforms. Transform menus, buttons, and headers with captivating designs. Make your Flutter app an iconic masterpiece."
-version: 0.0.2
+description: "Enhance Flutter projects with stunning icon fonts for a seamless and iconic user experience."
+version: 0.0.3
 homepage: https://github.com/moha-b/Iconic
 
 environment:
