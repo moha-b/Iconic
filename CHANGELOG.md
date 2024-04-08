@@ -4,5 +4,5 @@
 ## 0.0.2
 * Add [Documentation](../d/README.md) to the readme file
 
-## 0.1.2
+## 0.1.3
 * new configurations for the project 

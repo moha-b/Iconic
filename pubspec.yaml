@@ -1,7 +1,18 @@
 name: iconic
 description: "Enhance Flutter projects with stunning icon fonts for a seamless and iconic user experience."
-version: 0.1.2
+version: 0.1.3
+maintainer: hab
 homepage: https://github.com/moha-b/Iconic
+repository: https://github.com/moha-b/Iconic
+issue_tracker: https://github.com/moha-b/Iconic/issues
+screenshots:
+  - description: Icon fonts for any project, big or small
+    path: images/flaticon.jpg
+topics:
+  - icons
+  - flutter
+  - dart
+
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
