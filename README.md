@@ -19,7 +19,7 @@ to see all the icons included in the package, [click here](https://www.flaticon.
 Include Iconic in your pubspec.yaml file:
 ```dart
 dependencies:
-  iconic: ^0.1.3
+  iconic: ^0.1.0
 ```
 If your IDE doesn't do it automatically, run:
 ```dart
